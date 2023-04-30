@@ -1,0 +1,1 @@
+<view><top-two-icons vue-id="6efc1ab0-1" leftImageUrl="{{leftImageUrl}}" data-event-opts="{{[['^goback',[['goback']]]]}}" bind:goback="__e" bind:__l="__l"></top-two-icons><next-week vue-id="6efc1ab0-2" weekWeather="{{weekWeather}}" bind:__l="__l"></next-week><potential-weather vue-id="6efc1ab0-3" weekWeather="{{weekWeather}}" bind:__l="__l"></potential-weather></view>

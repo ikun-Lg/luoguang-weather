@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "top-two-icons": "/components/topTwoIcons/topTwoIcons",
+    "main-card": "/components/mainCard/mainCard",
+    "tody": "/components/tody/tody",
+    "temperature": "/components/temperature/temperature"
+  }
+}
