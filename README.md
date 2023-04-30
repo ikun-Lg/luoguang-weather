@@ -1,4 +1,4 @@
-# LuoguangWeather
+# LuoguangWeatherApp
 
 #### 介绍
 使用vue,uniapp技术栈实现天气app
